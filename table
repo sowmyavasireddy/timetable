@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>cse-a</title>
+<style type="text/css">
+.timetable {
+background-color: yellow;
+align:center;
+margin-top: 5%;
+}
+.timetable td,th{
+border: 3px solid lightgreen;
+padding: 1%
+}
+</style>
+</head>
+<body>
+<h1><center>Time table</center></h1>
+<table class="timetable" align="center">
+<tr><font color="green" size="4">
+<th>Day&Time</th>
+<th>9:00-9:50</th>
+<th>9:50-10:40</th>
+<th>10:40-11:00</th>
+<th>11:00-11:50</th>
+<th>11:50-12:40</th>
+<th>12:40-1:30</th>
+<th>1:30-2:20</th>
+<th>2:20-3:10</th>
+<th>3:10-3:20</th>
+<th>3:20-4:00</th>
+<th>4:00-4:40</th></font>
+</tr>
+<tr>
+<td>MON</td>
+<td>CN</td>
+<td>SE</td>
+<td>BREAK</td>
+<td>OS</td>
+<td>SAR</td>
+<td>LUNCH BREAK</td>
+<td>OS</td>
+<td>DLD</td>
+<td>BREAK</td>
+<td>SE</td>
+<td>HC</td>
+</tr>
+<tr>
+<td>TUE</td>
+<td>OS</td>
+<td>DLD</td>
+<td>BREAK</td>
+<td>CN</td>
+<td>SAR</td>
+<td>LUNCH BREAK</td>
+<td>SE</td>
+<td>CN&OS LAB</td>
+<td>BREAK</td>
+<td>CN&OS LAB</td>
+<td>CN&OS LAB</td>
+</tr>
+<tr>
+<td>WED</td>
+<td>DLD</td>
+<td>SE</td>
+<td>BREAK</td>
+<td>SAR</td>
+<td>CN</td>
+<td>LUNCH BREAK</td>
+<td>OS</td>
+<td>SE LAB</td>
+<td>BREAK</td>
+<td>SE LAB</td>
+<td>SE LAB</td>
+</tr>
+<tr>
+<td>THR</td>
+<td>SAR</td>
+<td>SE</td>
+<td>BREAK</td>
+<td>OS</td>
+<td>CN</td>
+<td>LUNCH BREAK</td>
+<td>DLD</td>
+<td>CCD</td>
+<td>BREAK</td>
+<td>ACTIVITY</td>
+<td>ACTIVITY</td>
+</tr>
+<tr>
+<td>FRI</td>
+<td>OS</td>
+<td>SAR LAB</td>
+<td>BREAK</td>
+<td>SAR LAB</td>
+<td>SAR LAB</td>
+<td>LUNCH BREAK</td>
+<td>SE</td>
+<td>DLD</td>
+<td>BREAK</td>
+<td>SAR</td>
+<td>CCD</td>
+</tr>
+<tr>
+<td>SAT</td>
+<td>CCD</td>
+<td>SAR</td>
+<td>BREAK</td>
+<td>OS</td>
+<td>DLD</td>
+<td>LUNCH BREAK</td>
+<td>OS</td>
+<td>SE</td>
+<td>BREAK</td>
+<td>SAR</td>
+<td>C&M</td>
+</tr>
+</table>
+</body>
+</html
